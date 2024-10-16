@@ -4,6 +4,9 @@ The following conventions will be used to refer to directories on your machine:
 * `<USER_HOME>` is your home directory.
 * `<IDEA_HOME>` is the root directory for the IntelliJ source code.
 
+## LICENSE
+The existing Intellij IDEA Community Edition will be subject to Apache licenses, and MPL 2.0 will be applied to the newly created code.
+
 ## Getting IntelliJ IDEA Community Edition Source Code
 IntelliJ IDEA Community Edition source code is available from `github.com/JetBrains/intellij-community` by either cloning or
 downloading a zip file (based on a branch) into `<IDEA_HOME>`. The default is the *master* branch. 
